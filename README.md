@@ -11,4 +11,4 @@ Set up the following environment variables for connecting to Azure Blob Storage 
 - DB_HOST=""
 - DB_USERNAME=""
 - DB_PASSWORD=""
-- DB_PASSWORD=""
+- DB_DATABASE=""
